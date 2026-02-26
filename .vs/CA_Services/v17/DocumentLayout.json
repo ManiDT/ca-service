@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Research\\CA_Services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|c:\\research\\ca_services\\ca_services\\controllers\\ca_servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|solutionrelative:ca_services\\controllers\\ca_servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|c:\\research\\ca_services\\ca_services\\services\\generateendcertificatecsr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|solutionrelative:ca_services\\services\\generateendcertificatecsr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|c:\\research\\ca_services\\ca_services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|solutionrelative:ca_services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|c:\\research\\ca_services\\ca_services\\model\\generateendusercertcsrresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|solutionrelative:ca_services\\model\\generateendusercertcsrresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|c:\\research\\ca_services\\ca_services\\model\\generatecertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|solutionrelative:ca_services\\model\\generatecertrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|c:\\research\\ca_services\\ca_services\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|solutionrelative:ca_services\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|c:\\research\\ca_services\\ca_services\\services\\securestringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|solutionrelative:ca_services\\services\\securestringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|c:\\research\\ca_services\\ca_services\\services\\generateendcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|solutionrelative:ca_services\\services\\generateendcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|c:\\research\\ca_services\\ca_services\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|solutionrelative:ca_services\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|c:\\research\\ca_services\\ca_services\\services\\interfaces\\igenerateendcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40089A7-22E5-448C-9DFC-DD2C98254C42}|CA_Services\\CA_Services.csproj|solutionrelative:ca_services\\services\\interfaces\\igenerateendcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CA_ServicesController.cs",
+              "DocumentMoniker": "C:\\Research\\CA_Services\\CA_Services\\Controllers\\CA_ServicesController.cs",
+              "RelativeDocumentMoniker": "CA_Services\\Controllers\\CA_ServicesController.cs",
+              "ToolTip": "C:\\Research\\CA_Services\\CA_Services\\Controllers\\CA_ServicesController.cs",
+              "RelativeToolTip": "CA_Services\\Controllers\\CA_ServicesController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowDQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T05:35:39.805Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenerateEndCertificateCSR.cs",
+              "DocumentMoniker": "C:\\Research\\CA_Services\\CA_Services\\Services\\GenerateEndCertificateCSR.cs",
+              "RelativeDocumentMoniker": "CA_Services\\Services\\GenerateEndCertificateCSR.cs",
+              "ToolTip": "C:\\Research\\CA_Services\\CA_Services\\Services\\GenerateEndCertificateCSR.cs",
+              "RelativeToolTip": "CA_Services\\Services\\GenerateEndCertificateCSR.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAADwv6AAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T08:56:48.992Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Research\\CA_Services\\CA_Services\\Program.cs",
+              "RelativeDocumentMoniker": "CA_Services\\Program.cs",
+              "ToolTip": "C:\\Research\\CA_Services\\CA_Services\\Program.cs",
+              "RelativeToolTip": "CA_Services\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T05:41:18.429Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Research\\CA_Services\\CA_Services\\appsettings.json",
+              "RelativeDocumentMoniker": "CA_Services\\appsettings.json",
+              "ToolTip": "C:\\Research\\CA_Services\\CA_Services\\appsettings.json",
+              "RelativeToolTip": "CA_Services\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T13:14:51.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecureStringHelper.cs",
+              "DocumentMoniker": "C:\\Research\\CA_Services\\CA_Services\\Services\\SecureStringHelper.cs",
+              "RelativeDocumentMoniker": "CA_Services\\Services\\SecureStringHelper.cs",
+              "ToolTip": "C:\\Research\\CA_Services\\CA_Services\\Services\\SecureStringHelper.cs",
+              "RelativeToolTip": "CA_Services\\Services\\SecureStringHelper.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:25:38.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenerateEndUserCertCSRResponse.cs",
+              "DocumentMoniker": "C:\\Research\\CA_Services\\CA_Services\\Model\\GenerateEndUserCertCSRResponse.cs",
+              "RelativeDocumentMoniker": "CA_Services\\Model\\GenerateEndUserCertCSRResponse.cs",
+              "ToolTip": "C:\\Research\\CA_Services\\CA_Services\\Model\\GenerateEndUserCertCSRResponse.cs",
+              "RelativeToolTip": "CA_Services\\Model\\GenerateEndUserCertCSRResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:59:05.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Research\\CA_Services\\CA_Services\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CA_Services\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Research\\CA_Services\\CA_Services\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CA_Services\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T09:01:32.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenerateEndCertificate.cs",
+              "DocumentMoniker": "C:\\Research\\CA_Services\\CA_Services\\Services\\Interfaces\\IGenerateEndCertificate.cs",
+              "RelativeDocumentMoniker": "CA_Services\\Services\\Interfaces\\IGenerateEndCertificate.cs",
+              "ToolTip": "C:\\Research\\CA_Services\\CA_Services\\Services\\Interfaces\\IGenerateEndCertificate.cs",
+              "RelativeToolTip": "CA_Services\\Services\\Interfaces\\IGenerateEndCertificate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:12:53.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenerateEndCertificate.cs",
+              "DocumentMoniker": "C:\\Research\\CA_Services\\CA_Services\\Services\\GenerateEndCertificate.cs",
+              "RelativeDocumentMoniker": "CA_Services\\Services\\GenerateEndCertificate.cs",
+              "ToolTip": "C:\\Research\\CA_Services\\CA_Services\\Services\\GenerateEndCertificate.cs",
+              "RelativeToolTip": "CA_Services\\Services\\GenerateEndCertificate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:14:42.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenerateCertRequest.cs",
+              "DocumentMoniker": "C:\\Research\\CA_Services\\CA_Services\\Model\\GenerateCertRequest.cs",
+              "RelativeDocumentMoniker": "CA_Services\\Model\\GenerateCertRequest.cs",
+              "ToolTip": "C:\\Research\\CA_Services\\CA_Services\\Model\\GenerateCertRequest.cs",
+              "RelativeToolTip": "CA_Services\\Model\\GenerateCertRequest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:40:16.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
